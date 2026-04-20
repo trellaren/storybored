@@ -1,6 +1,6 @@
-module StoryBored
+module storybored
 
-go 1.22.0
+go 1.23
 
 require github.com/wailsapp/wails/v2 v2.11.0
 
